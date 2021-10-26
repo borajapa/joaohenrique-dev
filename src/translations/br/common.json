@@ -25,15 +25,15 @@
         "about": {
             "title": "Sobre",
             "hi": "Olá",
-            "first": "Me chamo João Henrique, nasci em Ribeirão Preto - SP e vivo em Brasília - DF. Sou formado em Direito pelo UniCEUB, fui concurseiro durante um bom tempo, e mudei para área de tecnologia recentemente.",
-            "second": "Estou cursando Análise e Desenvolvimento de Sistemas, atuando já como estagiário, e o mais importante na minha visão: sou apaixonado por tecnologia.",
+            "first": "Me chamo João Henrique, nasci em Ribeirão Preto/SP e moro em Brasília/DF. Sou graduado em Direito pelo UniCEUB, fui concurseiro durante um bom tempo, e realizei a transição para área de tecnologia recentemente, minha verdadeira paixão.",
+            "second": "Estou cursando Análise e Desenvolvimento de Sistemas, realizo muito estudo e o mais importante na minha visão: sou apaixonado por tecnologia.",
             "third": "Procuro me atualizar, tenho muita curiosidade e sempre busco por novas tecnologias. Estou comecando a desenvolver projetos pessoais.",
             "downloadcv": "Baixar Currículo",
             "contactme": "Fale Comigo"
         },
         "experience": {
             "title": "Experiência Profissional",
-            "coopersystem": "Estágio em backend. Trabalho desenvolvendo melhorias e manutenção em uma plataforma chamada Curia, aplicada com microsserviços, utilizando como base tecnologias como GraphQL e Node.JS",
+            "coopersystem": "Estágio. Atuo no backend, desenvolvendo melhorias e manutenção em uma plataforma chamada Curia, aplicada em microsserviços, utilizando como base tecnologias como GraphQL e Node.JS",
             "cytei": "Iniciei como WordPress Manager. Após a repaginação da homepage da empresa, comecei a participar do desenvolvimento do DashBoard da startup, que tinha como foco ser um marketplace de energias renováveis. Operei com ReactJS e Python nessa empresa, e até o presente momento realizo contribuições."        },
         "techskills": {
             "title": "Conhecimentos Técnicos",
