@@ -25,17 +25,16 @@
         "about": {
             "title": "About",
             "hi": "Hi",
-            "first": "My name is Murillo, I'm a developer born in Londrina - PR (Brazil). I'm graduated in Computer Science at UniCEUB and I love technology.",
-            "second": "Software developer with more than 7 years of experience following the complete understanding of the entire software development life cycle to design and deliver complex solutions using React.JS, React Native, .NET, JavaScript, and Java technologies. Solid skills in analysis and optimization, performing in-depth testing and troubleshooting to deploy high-performance deliverables. Expertise and strong training in modern technologies such as React.JS, React Native, Node.JS, MySQL, and more.",
-            "third": "I've always been trying to update myself with new technologies and venturing into personal and work projects.",
+            "first": "My name is João Henrique, I was born in Ribeirão Preto/SP and I live in Brasília/DF. I graduated in Law from UniCEUB, I studied for a long time to be public server, and I made the transition to the technology area recently, my true passion",
+            "second": "I'm studying Systems Analysis and Development, I do a lot of study and the most important thing in my view: I'm passionate about technology.",
+            "third": "I try to update myself, I'm very curious and I'm always looking for new technologies. I'm starting to develop personal projects.",
             "downloadcv": "Download CV",
             "contactme": "Contact Me"
         },
         "experience": {
             "title": "Work Experience",
-            "inmetrics": "Senior Mobile Software Engineer. Worked developing enhancements of a mobile app using React Native (Redux, Navigator, Hooks). Aligned with UX Team, and QA Testers. Documented components, developed manuals to be used by clients in the future. Developed according to best practices and following the agile methodology.",
-            "cassipleno": "Software Analyst. Maintained existing applications and designed and delivered new applications. Coordinated deployments of new software, feature updates, and fixes. Developed the intranet mobile app end-to-end full stack using React Native for frontend, .NET CORE, and JAVA for Rest Apis and connecting with SQL Server and MongoDB. Monitored and Developed automated build and continuous software integration process to drive build/release failure resolution. (Using Azure DevOps, Openshift, Nexus)",
-            "mundodaweb": "Took part in a reformulation project of the UNB's (Brasilia University) Geotecnia website, and also in some website maintenance."
+            "coopersystem" : "Internship. I work on the backend developing improvements and maintenance on a platform called Curia, applied in microservices, using as a basis technologies such as GraphQL and Node.JS. ",
+            "cytei": "I started as WordPress Manager. After redesigning the company's homepage, I started to participate in the development of the startup's DashBoard, which focused on being a renewable energy market. I worked with ReactJS and Python at this company, and even at moment I make contributions. "
         },
         "techskills": {
             "title": "Tech Skills",
@@ -47,7 +46,7 @@
         },
         "academic": {
             "title": "Education",
-            "computerscience": "Computer Science at {{university}}",
+            "computerscience": "Analysis and systems development at {{university}}",
             "graduation": "Graduation"
         },
         "language": {
@@ -59,9 +58,7 @@
         },
         "portfolio": {
             "title": "Personal Portfolio",
-            "purple": "App of loyalty card for a company from Brasilia - DF, developed in React Native, with a management dashboard in React.JS, backend in .NET CORE, and database in MySQL",
-            "goobra": "App of construction management for a company from Brasilia - DF, planned with AdobeXD, developed in React Native, with a management dashboard in React.JS, backend in .NET CORE and database in MySQL.",
-            "7virtual": "Automated deploy system and management of applications in any Linux server, developed using Python, NodeJS, and MongoDB."
+            "projeto": "In development."
         }
     },
     "footer": {

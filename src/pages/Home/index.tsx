@@ -1,8 +1,6 @@
 import { useEffect } from 'react'
 import { useTranslation } from "react-i18next";
 import logoUniceub from '../../assets/logo_uniceub.png';
-import logoPurple from '../../assets/logo_purple.png';
-import logo7virtual from '../../assets/logo_7virtual.png';
 import { useParams } from 'react-router-dom';
 
 export default function Home() {
@@ -90,16 +88,9 @@ export default function Home() {
             <div className='separator' />
             <h1 className='title'>{t('sections.portfolio.title')}</h1>
             <div id='portfolio' className='portfolio'>
-                <div>
-                    <img src={logoPurple} alt='logo-purple' />
-                    <h3>Purple</h3>
-                    <p>{t('sections.portfolio.purple')}</p>
+                <div>                                   
+                    <p>{t('sections.portfolio.projeto')}</p>
                 </div>            
-                <div>
-                    <img src={logo7virtual} alt='logo-7virtual' />
-                    <h3>CYTEI</h3>
-                    <p>{t('sections.portfolio.cytei')}</p>
-                </div>
             </div>
         </div>
     )
