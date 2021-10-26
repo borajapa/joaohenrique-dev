@@ -1,15 +1,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,400;0,700;1,100;1,400&display=swap");
 $font-stack: "Poppins", sans-serif;
-$background-color: #222;
-$background-dark-color: #171717;
-$background-darker-color: #131313;
+$background-color: rgb(3, 95, 175);
+$background-dark-color: #013c6b;
+$background-darker-color: #002442;
 
 $gray-color: #747474;
 $white-color: #fff;
-$primary-color: #da0037;
-$text-color: #ededed;
-$text-dark-color: #131313;
-$text-secondary-color: #afafaf;
+$primary-color: #00b9da;
+$text-color: #ffffff;
+$text-dark-color: #ffffff;
+$text-secondary-color: #ffffff;
 
 body {
     font: 100% $font-stack;
